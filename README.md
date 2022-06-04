@@ -4,7 +4,7 @@ Hey wir sind New Time Development und entwickeln Software in verschiedensten Pro
 Wir sind ein Team von 2 Leuten und kommen selbst aus Deutschland (Rheinland Pfalz & Hamburg).
 Auf Unserer Profilseite wirst du alle unsere Open Source Projekte finden wie: Eftron, Eftron 24/7 (Musik Version), OmeCord und vieles mehr.
 
-**Öffentliche Projekte die ihr auf unserem Profil finden könnt!)
+**Öffentliche Projekte die ihr auf unserem Profil finden könnt!**
 - Eftron (standard) 
 - Eftron 24/7 (music bot)
 - OmeCord
