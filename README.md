@@ -1,5 +1,5 @@
 **About Us**
-
+--
 Hey we're New Time Development! We develop programs and other software in many different languages.
 We're 2 guys from Germany. Both of us do different things in the team but together we're working on some Open Source projects like. **Eftron**, **Eftron 24/7**, **OmeCord** and more!
 
