@@ -17,6 +17,7 @@ We're 2 guys from Germany. Both of us do different things in the team but togeth
 
 <div id>
 <img src="https://discordapp.com/api/guilds/747061203070746624/embed.png?style=banner1" alt="Server" width="410" height="220" />
+<img src="https://discordapp.com/api/guilds/845327767565631559/embed.png?style=banner1" alt="Server" width="410" height="220" />
 </div>
 
 Team
