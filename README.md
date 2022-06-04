@@ -1,4 +1,5 @@
-**About Us**
+About Us
+-
 
 Hey we are New Time Development and we develop software in different programming languages like Java. We are a team of 2 people and we are from Germany (Rheinland Pfalz & Hamburg). On our profile page you will find all our open source projects like: Eftron, Eftron 24/7 (music version), OmeCord and much more.
 
@@ -8,7 +9,8 @@ Hey we are New Time Development and we develop software in different programming
 - OmeCord
 
 
-**Contact**
+Contact
+-
 <div>
 <img  src="https://lanyard-profile-readme.vercel.app/api/660887621169446964" alt="sagesphinx63920"/> </a>
 <img  src="https://lanyard-profile-readme.vercel.app/api/658302673707204627" alt="oldbear200"/> 
