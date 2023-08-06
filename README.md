@@ -33,6 +33,6 @@ Role: Founder & CEO of New Time Development
 **Oldbear200:**
 
 Role: Content & Production Helper 
-- Mail: [oldbear200@sagesphinx63920.dev](mailto:oldbear200@ulsu.de)
+- Mail: [oldbear200@ulsu.de](mailto:oldbear200@ulsu.de)
 - Website: Coming soon!
 - GitHub: [@Oldbear200](https://github.com/oldbear200)
